@@ -1,2 +1,1 @@
 print('gyyyhfvbn')
-print('vnnn')
